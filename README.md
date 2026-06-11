@@ -9,7 +9,7 @@ Implementation and comparison of Decision Tree algorithms (CART & C4.5) trained 
 | File | Description |
 |------|-------------|
 | `cart.py` | CART Decision Tree (Gini Impurity) — from scratch |
-| `t.py` | C4.5 Decision Tree (Gain Ratio) — from scratch |
+| `C4.5.py` | C4.5 Decision Tree (Gain Ratio) — from scratch |
 | `code_with_sklearn.py` | Baseline: scikit-learn DecisionTreeClassifier |
 | `covid_trees.py` | Bonus: Circular Queue data structure |
 | `Covid Data.csv` | Dataset (not included — see below) |
