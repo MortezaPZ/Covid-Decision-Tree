@@ -36,7 +36,7 @@ python cart.py
 ```
 # C4.5 from scratch
 ```bash
-python t.py
+python C4.5.py
 ```
 # Scikit-learn baseline
 ```bash
